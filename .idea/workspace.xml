@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8589908-d9c1-4e87-a8a9-dc8ab7dc4c42" name="Default Changelist" comment="" />
+    <list default="true" id="d8589908-d9c1-4e87-a8a9-dc8ab7dc4c42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day3/Tank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3/typesOFF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dv/qwe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dv/qwe.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +56,40 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.typesOFF">
+    <configuration name="qwe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dv.qwe" />
+      <module name="StartGit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dv.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="typesOFF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3.typesOFF" />
+      <module name="StartGit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.typesOFF" />
+        <item itemvalue="Application.qwe" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -63,6 +102,7 @@
       <updated>1565011521480</updated>
       <workItem from="1565011525017" duration="734000" />
       <workItem from="1565013134046" duration="3151000" />
+      <workItem from="1565089237469" duration="2701000" />
     </task>
     <servers />
   </component>
