@@ -7,9 +7,9 @@ public class CoinToss {
     for(int i=1; i<11; i++){
         coin = rand.nextInt(2);
         if (coin == 0){
-        System.out.println(i + " - орел");}
+        System.out.println(i + " - орел!");}
         else
-            System.out.println(i + " - решка");
+            System.out.println(i + " - решка!");
 
     }
 
