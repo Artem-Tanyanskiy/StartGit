@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8589908-d9c1-4e87-a8a9-dc8ab7dc4c42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StudyInterface/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudyInterface/SayHello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudyInterface/TestInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studyException/TryExc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestInterface">
+  <component name="RunManager" selected="Application.TryExc">
     <configuration name="CoinToss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day3.CoinToss" />
       <module name="StartGit" />
@@ -110,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3.exRandom" />
+    <configuration name="TryExc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studyException.TryExc" />
       <module name="StartGit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3.*" />
+          <option name="PATTERN" value="studyException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryExc" />
         <item itemvalue="Application.TestInterface" />
         <item itemvalue="Application.Person" />
         <item itemvalue="Application.CoinToss" />
         <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.exRandom" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +145,8 @@
       <workItem from="1565013134046" duration="3151000" />
       <workItem from="1565089237469" duration="7982000" />
       <workItem from="1565371378659" duration="246000" />
-      <workItem from="1565607947015" duration="2846000" />
+      <workItem from="1565607947015" duration="3689000" />
+      <workItem from="1565684726376" duration="1462000" />
     </task>
     <servers />
   </component>
