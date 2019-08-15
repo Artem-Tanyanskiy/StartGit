@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8589908-d9c1-4e87-a8a9-dc8ab7dc4c42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/EdThread/DemoThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EdThread/NewThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudeProces/ReadLines.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,7 +55,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NewThread">
+  <component name="RunManager" selected="Application.ReadLines">
     <configuration name="DemoThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EdThread.DemoThread" />
       <module name="StartGit" />
@@ -96,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StudyInterface.TestInterface" />
+    <configuration name="ReadLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StudeProces.ReadLines" />
       <module name="StartGit" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="StudyInterface.*" />
+          <option name="PATTERN" value="StudeProces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReadLines" />
         <item itemvalue="Application.NewThread" />
         <item itemvalue="Application.DemoThread" />
         <item itemvalue="Application.NestTry" />
         <item itemvalue="Application.TryExc" />
-        <item itemvalue="Application.TestInterface" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +147,8 @@
       <workItem from="1565371378659" duration="246000" />
       <workItem from="1565607947015" duration="3689000" />
       <workItem from="1565684726376" duration="9638000" />
-      <workItem from="1565765537955" duration="573000" />
+      <workItem from="1565765537955" duration="1262000" />
+      <workItem from="1565777452162" duration="1806000" />
     </task>
     <servers />
   </component>
