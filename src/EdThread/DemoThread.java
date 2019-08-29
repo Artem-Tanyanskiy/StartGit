@@ -18,6 +18,7 @@ public class DemoThread implements Runnable{
             }
         }catch (InterruptedException e){
             System.out.println("stream interrupted");
+
         }
             System.out.println("Дочерный поток завершен");
     }}
