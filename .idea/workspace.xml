@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8589908-d9c1-4e87-a8a9-dc8ab7dc4c42" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Algorithms/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyApplet/FirstApplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudeProces/a.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EdThread/DemoThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EdThread/DemoThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StudeProces/InOutputText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StudeProces/InOutputText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Algorithms/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Algorithms/BubbleSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +161,7 @@
       <workItem from="1565777452162" duration="10656000" />
       <workItem from="1566808172692" duration="948000" />
       <workItem from="1566895106651" duration="1866000" />
-      <workItem from="1567061068818" duration="2133000" />
+      <workItem from="1567061068818" duration="3032000" />
     </task>
     <servers />
   </component>
